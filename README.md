@@ -49,6 +49,14 @@ Planned dashboard support for token metrics, price charts, migration status, and
 
 ---
 
+## 💻 Proof of Work
+
+[Contract Address](https://testnet.monadexplorer.com/address/0x802Bbb3924BEE46831cadD23e9CfA9e74B499Efb)
+- [Launch Token](https://testnet.monadexplorer.com/tx/0x44ce82f48eabc5e5f1be7bfb6414d380071a4993cd458b191d571568bb2c3190)
+- [Buy Tx](https://testnet.monadexplorer.com/tx/0xaf91c0e9254248b27310652da1c1bdfbf7a40d88cf7c72b0fabbd76ce24ec160)
+- [Sell Tx](https://testnet.monadexplorer.com/tx/0x3058ceca20593a1acff0e4c3534a92243ff554dc951f40e61a87476b75c29e9d)
+- [Buy & Migration to Uniswap](https://testnet.monadexplorer.com/tx/0x1dd9da4ec6acab116cc2b4a24c97ff5e6a93a0fe5ce0c8413436a0489243cad2)
+
 ## ⚠️ Notes
 
 - Currently deployed on **Monad Testnet**. Awaiting Monad mainnet release for production launch.
