@@ -80,5 +80,4 @@ PRs, issues, and feature suggestions are welcome! Feel free to fork, build, and 
 ## 📩 Contact  
 For inquiries, custom integrations, or tailored solutions, reach out via:  
 
-📧 **E-Mail**: [adamglab0731.pl@gmail.com](mailto:adamglab0731.pl@gmail.com)  
 💬 **Telegram**: [@bettyjk_0915](https://t.me/bettyjk_0915)
